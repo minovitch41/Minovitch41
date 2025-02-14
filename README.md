@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`YourGitHubName`](https://github.com/YourGitHubName)**, a relentless security researcher, bug hunter, and offensive security enthusiast. My expertise lies in uncovering hidden vulnerabilities, building custom exploitation tools, and navigating the ever-evolving cybersecurity landscape.
+I'm **[`YourGitHubName`](https://github.com/minovitch41)**, a relentless security researcher, bug hunter, and offensive security enthusiast. My expertise lies in uncovering hidden vulnerabilities, building custom exploitation tools, and navigating the ever-evolving cybersecurity landscape.
 
 <details>
   <summary>About Me</summary>
