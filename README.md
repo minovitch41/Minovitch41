@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`YourGitHubName`](https://github.com/minovitch41)**, a relentless security researcher, bug hunter, and offensive security enthusiast. My expertise lies in uncovering hidden vulnerabilities, building custom exploitation tools, and navigating the ever-evolving cybersecurity landscape.
+I'm **[`minovitch41`](https://github.com/minovitch41)**, a relentless security researcher, bug hunter, and offensive security enthusiast. My expertise lies in uncovering hidden vulnerabilities, building custom exploitation tools, and navigating the ever-evolving cybersecurity landscape.
 
 <details>
   <summary>About Me</summary>
@@ -66,12 +66,12 @@ I'm **[`YourGitHubName`](https://github.com/minovitch41)**, a relentless securit
 <h2 id="github_stats">GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubName&theme=dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubName&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minovitch41&theme=dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minovitch41&theme=dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubName&layout=compact&theme=dark&bg_color=00000000&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minovitch41&layout=compact&theme=dark&bg_color=00000000&hide_border=true" width="49%" />
 </p>
 
 ---
