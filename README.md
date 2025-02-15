@@ -67,7 +67,7 @@ I'm **[`minovitch41`](https://github.com/minovitch41)**, a relentless security r
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minovitch41&theme=dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minovitch41&theme=dark&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=minovitch41&theme=dark&hide_border=true&background=00000000" width="49%" />
 </p>
 
 <p align="center">
