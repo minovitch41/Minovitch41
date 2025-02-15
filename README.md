@@ -79,7 +79,7 @@ I'm **[`minovitch41`](https://github.com/minovitch41)**, a relentless security r
 <h2 id="support" align="left">Support My Work ⚡</h2>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/YourAlias"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://buymeacoffee.com/titanwolfx"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
 ---
